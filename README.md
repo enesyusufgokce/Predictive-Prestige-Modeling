@@ -1,6 +1,8 @@
 #### Project Mission & Vision
 This project aims to bridge the gap between the subjective prestige of the luxury watch industry (Horology) and the rational framework of data science. Our primary objective is to decode the invisible bond between brand heritage, price positioning, and technical specifications, ultimately defining the concept of "luxury" through a mathematical model.
 
+---
+
 #### What Does This Project Represent?
 1) In the world of fine watchmaking, prestige is far more than a price tag; it is a synthesis of engineering, history, and material excellence. This project analyzes this synthesis across three core dimensions:
 
@@ -9,6 +11,8 @@ This project aims to bridge the gap between the subjective prestige of the luxur
 3) Global Brand Perception: It measures the impact of a brand’s origin (e.g., Switzerland, Italy, Germany) and its historical lineage on modern market perception and prestige classification.
 
 4) From Complexity to Clarity: It transforms a chaotic pool of multilingual data, inconsistent formats, and information noise into a "refined" and high-quality knowledge base specific to the horological industry, enabling high-precision predictions.
+   
+---
 
 #### The Ultimate Goal
 The true success of this study lies in creating an objective prestige analyst by passing the fascinating yet immeasurable world of horology through the analytical lens of machine learning. The goal is not merely to perform a categorical prediction but to uncover the fundamental dynamics behind luxury watch segmentation.
