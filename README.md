@@ -6,7 +6,7 @@ This project aims to bridge the gap between the subjective prestige of the luxur
 
 2) The Multi-Dimensional Nature of Luxury: It explores the weight of specific attributes—such as movement type, material selection, and water resistance—within the total value of a timepiece. It substantiates the non-linear relationship between "premium pricing" and "brand prestige" through data-driven evidence.
 
-3) Global Brand Perception: It measures the impact of a brand’s origin (e.g., Switzerland, Japan, Germany) and its historical lineage on modern market perception and prestige classification.
+3) Global Brand Perception: It measures the impact of a brand’s origin (e.g., Switzerland, Italy, Germany) and its historical lineage on modern market perception and prestige classification.
 
 4) From Complexity to Clarity: It transforms a chaotic pool of multilingual data, inconsistent formats, and information noise into a "refined" and high-quality knowledge base specific to the horological industry, enabling high-precision predictions.
 
